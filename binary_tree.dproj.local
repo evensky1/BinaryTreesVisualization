@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.243,=C:\Delphiprogs\Курсовой\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,C:\Delphiprogs\Курсовой\Unit1.dfm=C:\Delphiprogs\Курсовой\menu_main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Delphiprogs\binary_main.pas=C:\Delphiprogs\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Delphiprogs\Unit6.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.047,C:\Delphiprogs\Курсовой\Unit1.pas=C:\Delphiprogs\Курсовой\menu_main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,C:\Delphiprogs\binary_tree.dproj=C:\Delphiprogs\Project63.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.562,C:\Delphiprogs\binary_main.dfm=C:\Delphiprogs\Unit6.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.565,=C:\Delphiprogs\Курсовой\main_menu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.839,C:\Delphiprogs\Курсовой\main_menu.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
